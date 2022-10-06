@@ -13,11 +13,15 @@ namespace Foodie.User
         {
             if(!Request.Url.AbsoluteUri.ToString().Contains("Default.aspx"))
             {
-
+                form1.Attributes.Add("class", "sub_page");
             }
             else
             {
-
+                form1.Attributes.Remove("class");
+                //Load thae Control
+                Control SliderUserControl = (Control)Page.LoadControl("SliderUserControl.ascx");
+                // add the bcontrol to the panel
+                pnlSliderUc.Controls.Add(SliderUserControl);
             }
         }
     }

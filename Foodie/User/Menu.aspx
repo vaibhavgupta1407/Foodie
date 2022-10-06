@@ -26,7 +26,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f1.png" alt="">
+                  <img src="../TemplateFiles/images/f1.png" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -102,7 +102,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f2.png" alt="">
+                  <img src="../TemplateFiles/images/f2.png" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -178,7 +178,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f3.png" alt="">
+                  <img src="../TemplateFiles/images/f3.png" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -254,7 +254,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f4.png" alt="">
+                  <img src="../TemplateFiles/images/f4.png" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -330,7 +330,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f5.png" alt="">
+                  <img src="../TemplateFiles/images/f5.png" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -406,7 +406,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f6.png" alt="">
+                  <img src="../TemplateFiles/images/f6.png" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -482,7 +482,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f7.png" alt="">
+                  <img src="../TemplateFiles/images/f7.png" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -558,7 +558,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f8.png" alt="">
+                  <img src="../TemplateFiles/images/f8.png" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -634,7 +634,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f9.png" alt="">
+                  <img src="../TemplateFiles/images/f9.png" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>

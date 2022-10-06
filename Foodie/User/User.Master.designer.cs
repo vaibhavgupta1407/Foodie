@@ -33,13 +33,13 @@ namespace Foodie.User
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// SliderUserControl1 control.
+        /// pnlSliderUc control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::Foodie.User.SliderUserControl1 SliderUserControl1;
+        protected global::System.Web.UI.WebControls.Panel pnlSliderUc;
 
         /// <summary>
         /// ContentPlaceHolder1 control.
